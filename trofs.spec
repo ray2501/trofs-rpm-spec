@@ -1,7 +1,7 @@
 Name:           trofs
 BuildRequires:  tcl-devel >= 8.5
 Summary:        Tcl Read-only Filesystem
-License:        NIST
+License:        SUSE-Public-Domain
 Group:          Development/Libraries/Tcl
 Version:        0.4.9
 Release:        0
